@@ -1,0 +1,4 @@
+Comandos:
+- npm i axios; serve para fazer requisições http e tratamento
+
+- npm install --save styled-components; criar o estilo dos componentes. Dá pra fazer funções js no css;
